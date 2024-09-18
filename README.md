@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Experienced retail professional with a passion for data analysis and report generation.
+
+This space is where I showcase my projects.
+
+- SQL
+- Power BI
+
+🌱 I’m currently learning Python.
+
 <!--
 **darrin-l/darrin-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
