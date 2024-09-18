@@ -2,8 +2,11 @@
 
 Experienced retail professional with a passion for data analysis and report generation.
 
+### Projects
+
 This space is where I showcase my projects.
 
+### Technical Skills
 - SQL
 - Power BI
 
